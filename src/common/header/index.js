@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Header() {
   return (
-    <header className="bg-gray-900 text-white max-lg:bg-red-600">
+    <header className="bg-gray-900 text-white max-lg:bg-red">
       <div className="container flex justify-between items-center">
         <div className="text-lg font-bold">
           <a href="/" className="hover:text-gray-400">YourLogo</a>

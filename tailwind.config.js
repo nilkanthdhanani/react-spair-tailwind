@@ -21,7 +21,7 @@ module.exports = {
       colors: {
         'black': '#000',
         'white': '#fff',
-        'green': '#00FF00',
+        'red': '#f00',
       },
       fontFamily: {
         inline: ['BigShouldersInline'], // from download
