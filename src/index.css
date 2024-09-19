@@ -15,3 +15,8 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'BigShouldersInline';
+  src: url('./assets/font/BigShouldersInlineText-VariableFont_wght.ttf') format('truetype'),
+}
