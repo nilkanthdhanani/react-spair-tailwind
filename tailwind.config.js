@@ -5,9 +5,9 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        'max-sm': { 'max': '576px' },
-        'max-md': { 'max': '768px' },
-        'max-lg': { 'max': '1024px' },
+        'max-lg': {'max': '1024px'},
+        'max-md': {'max': '768px'},
+        'max-sm': {'max': '576px'},
       },
       container: {
         center: true,
